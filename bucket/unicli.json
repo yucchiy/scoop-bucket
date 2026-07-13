@@ -1,12 +1,12 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "A command-line interface for controlling Unity Editor from the terminal",
   "homepage": "https://github.com/yucchiy/UniCli",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/yucchiy/UniCli/releases/download/v1.5.0/unicli-win-x64.zip",
-      "hash": "1804648dd709419bd5dfc939a6a89e1c2c831dcba2c1753b662b32de1dc53bf6"
+      "url": "https://github.com/yucchiy/UniCli/releases/download/v1.6.0/unicli-win-x64.zip",
+      "hash": "b0865474bec708a8eb5227e20257e401dcade0b54189faf7a50fe5f3758e1cd7"
     }
   },
   "bin": "unicli.exe",
